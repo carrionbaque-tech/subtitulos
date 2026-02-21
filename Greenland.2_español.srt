@@ -1,7 +1,7 @@
 1
 00:00:00,000 --> 00:00:24,000
-Subtitulos por <b>Subtis</b> - <i>@subt_is</i>
-Encontranos en la web https://subtis.io
+Subtitulos por <b>Rayitotv</b> - <i>@Rayitotv</i>
+Encontranos en la web https://rayitotv.site
 
 2
 00:01:03,843 --> 00:01:07,207
@@ -5573,4 +5573,5 @@ TaMaBin</i>
 Fuente del subtítulo: OpenSubtitles
 Link: https://www.opensubtitles.com/en/subtitles/legacy/13534361
 ID: 13534361
+
 
